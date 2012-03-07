@@ -232,7 +232,7 @@ public class Main {
         List<Manager> m = new ArrayList<Manager>();
 //
         GenericUtil.copyList(m, m);
-		System.out.println("Hello world");
+		System.out.println("Test of work");
 
     }
 
